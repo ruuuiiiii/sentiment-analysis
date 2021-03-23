@@ -12,13 +12,12 @@ The IMDB dataset is used in this project, which is available from https://github
 ## Performance
 For the performance of the sentiment analysis using BERT + Logistic regression, the classification report has been generated and is shown below.
 
-|               | Precision     | Recall | F-1     | Support |
-| ------------- | ------------- |--------|---------|---------|
-| Class 0       | 0.80          | 0.80  | 0.80     | 232     |
-| Class 1       | 0.83          | 0.83  | 0.83     | 268     |
-|               |               |       |          |         |
-| Accuracy      |               |       | 0.82     | 500     |
-| Macro Average | 0.82          |  0.82 | 0.82     | 500     |
-| Weighted Average | 0.82          |  0.82 | 0.82     | 500     |
+|               | Precision     | Recall | F-1     | Support  |
+| ------------- | ------------- |--------|---------|--------- |
+| Class 0       | 0.80          | 0.80   | 0.80     | 232     |
+| Class 1       | 0.83          | 0.83   | 0.83     | 268     |
+| Accuracy      |               |        | 0.82     | 500     |
+| Macro Average | 0.82          |  0.82  | 0.82     | 500     |
+| Weighted Average | 0.82       |  0.82 | 0.82      | 500     |
 
 
